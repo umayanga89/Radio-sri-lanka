@@ -1,0 +1,6 @@
+{
+  "name": "LankaWave — Sri Lankan Live Radio & Smart Playlists",
+  "description": "Real-time Sri Lankan online radio tuner streaming Sinhala, Tamil, and English FM channels with a personalized playlist generator tailored to your listening habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
